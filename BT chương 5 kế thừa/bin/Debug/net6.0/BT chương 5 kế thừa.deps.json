@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BT chương 5 kế thừa/1.0.0": {
+        "runtime": {
+          "BT chương 5 kế thừa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT chương 5 kế thừa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

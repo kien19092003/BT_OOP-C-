@@ -1,0 +1,15 @@
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.csproj.AssemblyReference.cache
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.AssemblyInfoInputs.cache
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.AssemblyInfo.cs
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.csproj.CoreCompileInputs.cache
+D:\OOP\BT phương thức chương 3\bin\Debug\net6.0\BT phương thức chương 3.exe
+D:\OOP\BT phương thức chương 3\bin\Debug\net6.0\BT phương thức chương 3.deps.json
+D:\OOP\BT phương thức chương 3\bin\Debug\net6.0\BT phương thức chương 3.runtimeconfig.json
+D:\OOP\BT phương thức chương 3\bin\Debug\net6.0\BT phương thức chương 3.dll
+D:\OOP\BT phương thức chương 3\bin\Debug\net6.0\BT phương thức chương 3.pdb
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.dll
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\refint\BT phương thức chương 3.dll
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.pdb
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\BT phương thức chương 3.genruntimeconfig.cache
+D:\OOP\BT phương thức chương 3\obj\Debug\net6.0\ref\BT phương thức chương 3.dll

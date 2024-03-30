@@ -1,0 +1,15 @@
+D:\OOP\BT chương 4 Đóng gói\bin\Debug\net6.0\BT chương 4 Đóng gói.exe
+D:\OOP\BT chương 4 Đóng gói\bin\Debug\net6.0\BT chương 4 Đóng gói.deps.json
+D:\OOP\BT chương 4 Đóng gói\bin\Debug\net6.0\BT chương 4 Đóng gói.runtimeconfig.json
+D:\OOP\BT chương 4 Đóng gói\bin\Debug\net6.0\BT chương 4 Đóng gói.dll
+D:\OOP\BT chương 4 Đóng gói\bin\Debug\net6.0\BT chương 4 Đóng gói.pdb
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.csproj.AssemblyReference.cache
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.AssemblyInfoInputs.cache
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.AssemblyInfo.cs
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.csproj.CoreCompileInputs.cache
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.dll
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\refint\BT chương 4 Đóng gói.dll
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.pdb
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\BT chương 4 Đóng gói.genruntimeconfig.cache
+D:\OOP\BT chương 4 Đóng gói\obj\Debug\net6.0\ref\BT chương 4 Đóng gói.dll

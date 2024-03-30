@@ -1,0 +1,15 @@
+D:\OOP\BT chương 5 kế thừa\bin\Debug\net6.0\BT chương 5 kế thừa.exe
+D:\OOP\BT chương 5 kế thừa\bin\Debug\net6.0\BT chương 5 kế thừa.deps.json
+D:\OOP\BT chương 5 kế thừa\bin\Debug\net6.0\BT chương 5 kế thừa.runtimeconfig.json
+D:\OOP\BT chương 5 kế thừa\bin\Debug\net6.0\BT chương 5 kế thừa.dll
+D:\OOP\BT chương 5 kế thừa\bin\Debug\net6.0\BT chương 5 kế thừa.pdb
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.csproj.AssemblyReference.cache
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.AssemblyInfoInputs.cache
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.AssemblyInfo.cs
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.csproj.CoreCompileInputs.cache
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.dll
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\refint\BT chương 5 kế thừa.dll
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.pdb
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\BT chương 5 kế thừa.genruntimeconfig.cache
+D:\OOP\BT chương 5 kế thừa\obj\Debug\net6.0\ref\BT chương 5 kế thừa.dll

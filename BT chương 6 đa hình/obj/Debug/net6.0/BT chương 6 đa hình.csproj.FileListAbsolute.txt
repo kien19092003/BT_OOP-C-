@@ -1,0 +1,15 @@
+D:\OOP\BT chương 6 đa hình\bin\Debug\net6.0\BT chương 6 đa hình.exe
+D:\OOP\BT chương 6 đa hình\bin\Debug\net6.0\BT chương 6 đa hình.deps.json
+D:\OOP\BT chương 6 đa hình\bin\Debug\net6.0\BT chương 6 đa hình.runtimeconfig.json
+D:\OOP\BT chương 6 đa hình\bin\Debug\net6.0\BT chương 6 đa hình.dll
+D:\OOP\BT chương 6 đa hình\bin\Debug\net6.0\BT chương 6 đa hình.pdb
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.csproj.AssemblyReference.cache
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.AssemblyInfoInputs.cache
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.AssemblyInfo.cs
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.csproj.CoreCompileInputs.cache
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.dll
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\refint\BT chương 6 đa hình.dll
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.pdb
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\BT chương 6 đa hình.genruntimeconfig.cache
+D:\OOP\BT chương 6 đa hình\obj\Debug\net6.0\ref\BT chương 6 đa hình.dll
