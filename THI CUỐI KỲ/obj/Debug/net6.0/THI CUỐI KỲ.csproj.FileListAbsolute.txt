@@ -1,0 +1,15 @@
+D:\OOP\THI CUỐI KỲ\bin\Debug\net6.0\THI CUỐI KỲ.exe
+D:\OOP\THI CUỐI KỲ\bin\Debug\net6.0\THI CUỐI KỲ.deps.json
+D:\OOP\THI CUỐI KỲ\bin\Debug\net6.0\THI CUỐI KỲ.runtimeconfig.json
+D:\OOP\THI CUỐI KỲ\bin\Debug\net6.0\THI CUỐI KỲ.dll
+D:\OOP\THI CUỐI KỲ\bin\Debug\net6.0\THI CUỐI KỲ.pdb
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.csproj.AssemblyReference.cache
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.AssemblyInfoInputs.cache
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.AssemblyInfo.cs
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.csproj.CoreCompileInputs.cache
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.dll
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\refint\THI CUỐI KỲ.dll
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.pdb
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\THI CUỐI KỲ.genruntimeconfig.cache
+D:\OOP\THI CUỐI KỲ\obj\Debug\net6.0\ref\THI CUỐI KỲ.dll
